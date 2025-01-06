@@ -52,5 +52,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" />
 </p>
 
+[Watch full video here!](https://mmunim90.github.io/video/)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90" alt="mmunim90" /></a> </p> -->
