@@ -1,11 +1,13 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
 <h1 align="center">Hi 👋  I'm Md. Shahan Al Munim</h1>
-<h3 align="center">A passionate programmer from Bangladesh 💻👨‍💻.</h3>
+<h3 align="center">A passionate programmer from Bangladesh 💻👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXcxMDJjcHB1YXMxeTJhc2pubzVweGd2ZXptYXBtcjF5NHdidXdvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmunim90&label=Profile%20views&color=0e75b6&style=flat" alt="mmunim90" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mmunim" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
+
+- 🎓💻 I am currently doing a Bachelor's in **Computer Science and Engineering** 
 
 - 🌱 I’m currently learning **Python, Web Development**
 
@@ -18,6 +20,8 @@
 - 📫 How to reach me **mmunim9.9.01@gmail.com**
 
 - 🔗📘 My Linkedin Account [https://www.linkedin.com/in/m-munim/](https://www.linkedin.com/in/m-munim/)
+
+- 🤖 I am interested in **Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
