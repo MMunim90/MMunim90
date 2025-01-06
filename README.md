@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Greetings 👋 I'm Md. Shahan Al Munim.</h1>
+<h1 align="center">Greetings 👋 I'm Md. Shahan Al Munim</h1>
 <h3 align="center">A dedicated programmer hailing from Bangladesh 💻👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
