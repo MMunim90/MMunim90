@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmunim" height="30" width="40" /></a>
+<a href="https://x.com/__munim__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mmunim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m munim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m munim" height="30" width="40" /></a>
 <a href="https://kaggle.com/md. shahan al munim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="md. shahan al munim" height="30" width="40" /></a>
 <a href="https://www.facebook.com/munim9munim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m munim" height="30" width="40" /></a>
