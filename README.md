@@ -3,7 +3,9 @@
 <h3 align="center">A passionate programmer from Bangladesh 💻👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXcxMDJjcHB1YXMxeTJhc2pubzVweGd2ZXptYXBtcjF5NHdidXdvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmunim90&label=Profile%20views&color=0e75b6&style=flat" alt="mmunim90" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mmunim90&label=Profile%20views&color=0e75b6&style=flat" alt="mmunim90" />
+</p>
 
 <p align="left"> <a href="https://x.com/__munim__" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
 
