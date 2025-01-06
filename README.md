@@ -52,4 +52,41 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" />
 </p>
 
+<h2>▶️ My Letest Youtube Videos</h2>
+
+ - 🎥 [The Floyd-Warshall algorithm in Bnagla](https://youtu.be/QjZQnw4URv8?si=XdxxvJyjVWHI45TJ)
+ - 🎥 [Getters & Setters in C++ programming (Bangla)](https://youtu.be/OnBwNFpZSq0?si=9hTdLTVlCawZXDWt)
+ - 🎥 [DSA knapsack problem in c program (Bangla)](https://youtu.be/6Mobf0qmfZ8?si=0oyQOgs_vZ5GwI5B)
+
+
+
+
+---
+<h2>📚 Education</h2>
+
+1. B.Sc. in Computer Science & Engineering
+   - World University of Bangladesh
+   - Dhaka, Bangladesh.
+2. HSC in Science
+   - Amanullah University
+   - Bhandaria, Pirojpur.
+3. SSC in Science
+   - Bhandaria vihari pilot high school
+   - Bhandaria, Pirojpur.
+---
+<h2>🗣️ Languages:</h2>
+
+   - Bangla : Native
+   - English : Fluent
+   - Hindi : Fluent
+   - German : Basic
+   - Japanese : Basic
+---
+<h2>🎮🏔️🌅 Sports / Game / Activities: </h2>
+
+   - 🏏 Cricket, ⚽ Football
+   - 🎮 Video Games, ♟️ Chess Pawn
+   - ✈️ Travelling
+---
+<sub><h4>All rights reserved by Munim © 2025 | Follow me on [GitHub](https://github.com/mmunim90)</h4></sub>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90" alt="mmunim90" /></a> </p> -->
