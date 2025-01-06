@@ -79,6 +79,7 @@
    - Bangla : Native
    - English : Fluent
    - Hindi : Fluent
+   - Urdu : Intermediate 
    - German : Basic
    - Japanese : Basic
 ---
