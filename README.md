@@ -67,12 +67,15 @@
 1. B.Sc. in Computer Science & Engineering
    - World University of Bangladesh
    - Dhaka, Bangladesh.
+   - CGPA : 3.38 (2nd year running)
 2. HSC in Science
    - Amanullah University
    - Bhandaria, Pirojpur.
+   - GPA : 5.00
 3. SSC in Science
    - Bhandaria vihari pilot high school
    - Bhandaria, Pirojpur.
+   - GPA : 5.00
 ---
 <h2>🗣️ Languages:</h2>
 
