@@ -89,5 +89,5 @@
    - 🎮 Video Games, ♟️ Chess Pawn
    - ✈️ Travelling
 ---
-<sub><h4>All rights reserved by MMunim © 2025 | Follow me on [GitHub](https://github.com/mmunim90)</h4></sub>
+<sub><h4 align="center">All rights reserved by MMunim © 2025 | Follow me on [GitHub](https://github.com/mmunim90)</h4></sub>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90" alt="mmunim90" /></a> </p> -->
