@@ -48,9 +48,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmunim90&show_icons=true&locale=en" alt="mmunim90" /></p>
 
-<p style="text-align: center;">
+<!--<p style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" />
-</p>
+</p>-->
 
 <h2>▶️ My Letest Youtube Videos</h2>
 
