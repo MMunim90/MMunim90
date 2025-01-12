@@ -46,22 +46,19 @@
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmunim90&show_icons=true&locale=en" alt="mmunim90" /></p>
-
+<br>
 <!--<p style="text-align: center;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" />
 </p>-->
-
-<h2>▶️ My Letest Youtube Videos</h2>
+<h2 align="center">▶️ My Letest Youtube Videos</h2>
 
  - 🎥 [The Floyd-Warshall algorithm in Bnagla](https://youtu.be/QjZQnw4URv8?si=XdxxvJyjVWHI45TJ)
  - 🎥 [Getters & Setters in C++ programming (Bangla)](https://youtu.be/OnBwNFpZSq0?si=9hTdLTVlCawZXDWt)
  - 🎥 [DSA knapsack problem in c program (Bangla)](https://youtu.be/6Mobf0qmfZ8?si=0oyQOgs_vZ5GwI5B)
 
 
-
-
 ---
-<h2>📚 Education</h2>
+<h2 align="center">📚 Education</h2>
 
 1. B.Sc. in Computer Science & Engineering
    - World University of Bangladesh
@@ -76,7 +73,7 @@
    - Bhandaria, Pirojpur.
    - GPA : 5.00
 ---
-<h2>🗣️ Languages:</h2>
+<h2 align="center">🗣️ Languages:</h2>
 
    - Bangla : Native
    - English : Fluent
@@ -85,7 +82,7 @@
    - German : Basic
    - Japanese : Basic
 ---
-<h2>🎮🏔️🌅 Sports / Game / Activities: </h2>
+<h2 align="center">🎮🏔️🌅 Sports / Game / Activities: </h2>
 
    - 🏏 Cricket, ⚽ Football
    - 🎮 Video Games, ♟️ Chess Pawn
