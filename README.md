@@ -2,10 +2,11 @@
 <h1 align="center">Greetings 👋 I'm Md. Shahan Al Munim</h1>
 <h3 align="center">A dedicated programmer hailing from Bangladesh 💻👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<br>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmunim90&label=Profile%20views&color=0e75b6&style=flat" alt="mmunim90" /> </p>-->
 <!--![Profile Visit](https://profile-counter.glitch.me/mmunim90/count.svg)-->
- <div> <p> Profile Visits :- </p>
+ <div> <p> Visitor Count :- </p>
         <img src="https://profile-counter.glitch.me/mmunim90/count.svg" alt="Profile Visit Counter">
     </div>
 <br>
