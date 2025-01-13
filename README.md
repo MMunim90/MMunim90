@@ -4,8 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmunim90&label=Profile%20views&color=0e75b6&style=flat" alt="mmunim90" /> </p>-->
-![Profile Visit](https://profile-counter.glitch.me/mmunim90/count.svg)
-
+<!--![Profile Visit](https://profile-counter.glitch.me/mmunim90/count.svg)-->
+ <div> <p> Profile Visits :- </p>
+        <img src="https://profile-counter.glitch.me/mmunim90/count.svg" alt="Profile Visit Counter">
+    </div>
+<br>
 <p align="left"> <a href="https://x.com/__munim__" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
 
 - 🎓💻 I am currently doing a Bachelor's in **Computer Science and Engineering** 
