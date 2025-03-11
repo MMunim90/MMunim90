@@ -14,7 +14,7 @@
 
 - 🎓💻 I am currently doing a Bachelor's in **Computer Science and Engineering** 
 
-- 🌱 I’m currently learning **Python, Web Development**
+- 🌱 I’m currently learning **Web Development, and doing some cool project on C-Programming**
 
 - 🗺️ My Travel website [https://mmunim90.github.io/my-first-website/](https://mmunim90.github.io/my-first-website/)
 
@@ -22,13 +22,13 @@
 
 - 🎓 My Portfolio website [https://mmunim90.github.io/my-portfolio-github/](https://mmunim90.github.io/my-portfolio-github/)
 
-- 📫 How to reach me **mmunim9.9.01@gmail.com**
+- ✉️ Contact via email **mmunim9.9.01@gmail.com**
 
-- 🔗📘 My Sololearn Profile [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
+- 🔗📚 My Sololearn Profile [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
 
-- My Discord Server [https://discord.gg/_munim_](https://discord.gg/upPUAqbU)
+- 🗨️🎮 My Discord Server [https://discord.gg/_munim_](https://discord.gg/upPUAqbU)
 
-- 🤖 I am interested in **Cyber Security**
+- 🥷🏼 I am interested in **Cyber Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
