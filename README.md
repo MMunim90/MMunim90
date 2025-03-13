@@ -18,17 +18,17 @@
 
 - 🌱 I’m currently learning **Web Development, and doing some cool project on C-Programming**
 
-- 🗺️ My Travel website [https://mmunim90.github.io/my-first-website/](https://mmunim90.github.io/my-first-website/)
+- 🗺️ My Travel website: [https://mmunim90.github.io/my-first-website/](https://mmunim90.github.io/my-first-website/)
 
-- 👍 My Facebook Page [https://www.facebook.com/profile.php?id=61554851699924](https://www.facebook.com/profile.php?id=61554851699924)
+- 👍 My Facebook Page: [https://www.facebook.com/profile.php?id=61554851699924](https://www.facebook.com/profile.php?id=61554851699924)
 
-- 🎓 My Portfolio website [https://mmunim90.github.io/my-portfolio-github/](https://mmunim90.github.io/my-portfolio-github/)
+- 🎓 My Portfolio website: [https://mmunim90.github.io/my-portfolio-github/](https://mmunim90.github.io/my-portfolio-github/)
 
-- ✉️ Contact via email **mmunim9.9.01@gmail.com**
+- ✉️ Telegram channel: https://t.me/CodeCraftGamers
 
-- 🔗📚 My Sololearn Profile [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
+- 🔗📚 My Sololearn Profile: [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
 
-- 🗨️🎮 My Discord Server [https://discord.gg/_munim_](https://discord.gg/upPUAqbU)
+- 🗨️🎮 My Discord Server: [https://discord.gg/_munim_](https://discord.gg/upPUAqbU)
 
 - 🥷🏼 I am interested in **Cyber Security**
 
@@ -62,7 +62,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=dracula" alt="mmunim90" /></a> </p><br><br>
 
-<h2 align="center">▶️ My Letest Youtube Videos</h2>
+<h2 align="center">▶️ My Youtube Videos</h2>
 
  - 🎥 [The Floyd-Warshall algorithm in Bnagla](https://youtu.be/QjZQnw4URv8?si=XdxxvJyjVWHI45TJ)
  - 🎥 [Getters & Setters in C++ programming (Bangla)](https://youtu.be/OnBwNFpZSq0?si=9hTdLTVlCawZXDWt)
