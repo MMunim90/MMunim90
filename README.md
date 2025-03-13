@@ -1,14 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
-<h1 align="center">Greetings 👋 Md. Shahan Al Munim, Here</h1>
+<h1 align="center">
+        <a href="https://git.io/typing-svg">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Md+Shahan+Al+Munim!;" alt="">
+        </a>
+    </h1>
 <h3 align="center">A dedicated programmer hailing from Bangladesh 💻👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <br>
 
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmunim90&label=Profile%20views&color=0e75b6&style=flat" alt="mmunim90" /> </p>-->
-<!--![Profile Visit](https://profile-counter.glitch.me/mmunim90/count.svg)-->
- <div> <p> Visitor Count :- </p>
+<div> <p> Visitor Count :- </p>
         <img src="https://profile-counter.glitch.me/mmunim90/count.svg" alt="Profile Visit Counter">
-    </div>
+    </div> 
 <br>
 <p align="left"> <a href="https://x.com/__munim__" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
 
@@ -50,13 +52,16 @@
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></p>
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmunim90&show_icons=true&locale=en" alt="mmunim90" /></p>
+<h3 align="center">⚡ Stats ⚡</h3> <br>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunim90&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mmunim90" /></p> <br>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mmunim90&show_icons=true&locale=en&theme=radical" alt="mmunim90" /></p> <br>
 
-<br>
 <!--<p style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact" alt="mmunim90" />
 </p>-->
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=dracula" alt="mmunim90" /></a> </p><br><br>
+
 <h2 align="center">▶️ My Letest Youtube Videos</h2>
 
  - 🎥 [The Floyd-Warshall algorithm in Bnagla](https://youtu.be/QjZQnw4URv8?si=XdxxvJyjVWHI45TJ)
@@ -65,4 +70,4 @@
 
 ---
 <sub><h4 align="center">All rights reserved by MMunim © 2025 | Follow me on [GitHub](https://github.com/mmunim90)</h4></sub>
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90" alt="mmunim90" /></a> </p> -->
+
