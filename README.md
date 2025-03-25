@@ -28,6 +28,8 @@
 
 - 🔗📚 My Sololearn Profile: [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
 
+- 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
+
 - 🗨️🎮 My Discord Server: [https://discord.gg/_munim_](https://discord.gg/upPUAqbU)
 
 - 🥷🏼 I am interested in **Cyber Security**
