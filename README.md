@@ -18,12 +18,6 @@
 
 - 🌱 I’m currently learning **Web Development, and doing some cool project on C-Programming**
 
-- 🗺️ My Travel website: [https://mmunim90.github.io/my-first-website/](https://mmunim90.github.io/my-first-website/)
-
-- 👍 My Facebook Page: [https://www.facebook.com/profile.php?id=61554851699924](https://www.facebook.com/profile.php?id=61554851699924)
-
-- 🎓 My Portfolio website: [https://mmunim90.github.io/my-portfolio-github/](https://mmunim90.github.io/my-portfolio-github/)
-
 - ✉️ Telegram channel: https://t.me/CodeCraftGamers
 
 - 🔗📚 My Sololearn Profile: [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
@@ -36,7 +30,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/munim9munim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m munim" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61554851699924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m munim" height="30" width="40" /></a>
 <a href="https://instagram.com/_mmunim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mmunim_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mrpoker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrpoker" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/mmunim9_9_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="m munim" height="30" width="40" /></a>
