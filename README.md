@@ -14,20 +14,21 @@
 <br>
 <p align="left"> <a href="https://x.com/__munim__" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
 
-- 🎓💻 I am currently doing a Bachelor's in **Computer Science and Engineering** 
-
-- 🌱 I’m currently learning **Web Development, and doing some cool project on C-Programming**
-
-- ✉️ Telegram channel: https://t.me/CodeCraftGamers
+- 🎓💻 I am currently doing a Bachelor's in **CSE** 
 
 - 🔗📚 My Sololearn Profile: [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
 
 - 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
 
+- 🌱 I’m currently learning **Web Development**
+
 - 🗨️🎮 My Discord Server: [https://discord.gg/_munim_](https://discord.gg/upPUAqbU)
 
-- 🥷🏼 I am interested in **Cyber Security**
+-  ✉️ Telegram channel: https://t.me/CodeCraftGamers
 
+-  🥷🏼 I am interested in **Cyber Security**
+
+  
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=61554851699924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m munim" height="30" width="40" /></a>
