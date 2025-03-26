@@ -16,17 +16,18 @@
 
 - 🎓💻 I am currently doing a Bachelor's in **CSE** 
 
-- 🔗📚 My Sololearn Profile: [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
+- 🌱 I’m currently learning **Web Development**
 
 - 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
 
-- 🌱 I’m currently learning **Web Development**
+- 🔗📚 My Sololearn Profile: [https://www.sololearn.com/en/profile/29786474](https://www.sololearn.com/en/profile/29786474)
+
+-  🥷🏼 I am interested in **Cyber Security**
 
 - 🗨️🎮 My Discord Server: [https://discord.gg/_munim_](https://discord.gg/upPUAqbU)
 
 -  ✉️ Telegram channel: https://t.me/CodeCraftGamers
 
--  🥷🏼 I am interested in **Cyber Security**
 
   
 <h3 align="center">Connect with me:</h3>
