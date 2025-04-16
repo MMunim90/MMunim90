@@ -18,7 +18,7 @@
 
 - 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
 
--  🥷🏼 I am interested in **Cyber Security**
+-  🥷🏼 Interested in **Cyber Security**
 
 -  ✉️ Telegram channel: https://t.me/CodeCraftGamers
 
