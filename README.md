@@ -16,9 +16,9 @@
 
 - 🎓🧑‍🎓 Student of **CSE** 💻
 
-- 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
-
 -  🥷🏼 Interested in **Cyber Security**
+
+- 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
 
 -  ✉️ Telegram channel: https://t.me/CodeCraftGamers
 
