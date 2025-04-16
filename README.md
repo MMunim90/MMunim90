@@ -14,9 +14,7 @@
 <br>
 <p align="left"> <a href="https://x.com/__munim__" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
 
-- 🎓💻 I am currently doing a Bachelor's in **CSE** 
-
-- 🌱 I’m currently learning **Web Development**
+- 🎓🧑‍🎓 Student of **CSE** 💻
 
 - 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
 
