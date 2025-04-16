@@ -23,7 +23,7 @@
 
 
 <h3 align="left">Support:</h3>
-<a href="https://ko-fi.com/MMunim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MMunim" /></a>
+<a href="buymeacoffee.com/MMunim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MMunim" /></a>
 
 <br><br><br><br>
 
