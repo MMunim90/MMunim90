@@ -5,6 +5,9 @@
         </a>
     </h1>
 <h3 align="center">A dedicated programmer hailing from Bangladesh 💻👨‍💻</h3>
+<p align="center">
+  <img src="https://i.ibb.co.com/hJbML2Kr/1.png" alt="Banner Image" width="91.67%">
+</p>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <br>
 
