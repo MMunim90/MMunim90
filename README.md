@@ -4,7 +4,7 @@
             <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey+Buddy!+👋;+I'm+Md+Shahan+Al+Munim!;" alt="">
         </a>
     </h1>
-<h3 align="center">A dedicated programmer hailing from Bangladesh 💻👨‍💻</h3>
+<h3 align="center">MERN Stack Web Developer 💻👨‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <br>
 
