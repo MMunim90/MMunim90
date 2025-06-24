@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif)
+![MasterHead](https://i.ibb.co/dsVxvBj4/Github-Banner.png)
 <h1 align="center">
         <a href="https://git.io/typing-svg">
             <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey!+👋;+I'm+Md+Shahan+Al+Munim!;" alt="">
