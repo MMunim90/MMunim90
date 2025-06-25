@@ -38,9 +38,7 @@
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=61554851699924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/_mmunim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://t.me/CodeCraftGamers" target="blank"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="30" width="40"/></a>
+<a href="https://www.facebook.com/profile.php?id=61554851699924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a><a href="https://t.me/CodeCraftGamers" target="blank"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="30" width="40"/></a>
 <a href="https://www.codechef.com/users/mrpoker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://discord.gg/56AdxQuU" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/en/profile/29786474" target="blank"><img align="center" src="https://www.svgrepo.com/show/519361/sololearn.svg" alt="Sololearn" height="30" width="40" /></a>
