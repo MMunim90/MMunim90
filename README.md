@@ -24,9 +24,8 @@
 - 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
 
 
-<h3 align="left">Support:</h3>
-<a href="buymeacoffee.com/MMunim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MMunim" /></a>
-<br><br><br><br>
+
+<br><br>
 
 <p align="center">
   <img src="https://github.com/MMunim90/MMunim90/blob/d2a22dd60cf56a9c426e4bf9f74d2dced68bf33a/1.png" alt="Banner Image" width="100%">
