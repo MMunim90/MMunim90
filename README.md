@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/dsVxvBj4/Github-Banner.png)
 <h1 align="center">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hey!+👋;+I'm+Md+Shahan+Al+Munim!;" alt="">
+            <img src="https://readme-typing-svg.herokuapp.com/?font=Sora&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=I'm+Md+Shahan+Al+Munim!;+Programmer;+MERN+Stack+Developer;" alt="">
         </a>
     </h1>
 <h3 align="center">👨‍💻 MERN Stack Developer | Passionate about Building Modern Full-Stack Web Solutions 💻</h3>
