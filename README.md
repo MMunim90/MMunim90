@@ -20,7 +20,7 @@
 
 -  🥷🏼 Interested in **Cyber Security**
 
-- 💻 beecrowd profile : https://judge.beecrowd.com/en/profile/1013768
+- 💻 [beecrowd](https://judge.beecrowd.com/en/profile/1013768) profile
 
 
 
