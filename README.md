@@ -8,9 +8,8 @@
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <br>
 
-<div> <p> Visitor Count :- </p>
-        <img src="https://profile-counter.glitch.me/mmunim90/count.svg" alt="Profile Visit Counter">
-    </div> 
+![profile](https://komarev.com/ghpvc/?username=mmunim90&label=PROFILE+VIEWS)
+
 <br>
 <p align="left"> <a href="https://x.com/__munim__" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
 
