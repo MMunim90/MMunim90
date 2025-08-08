@@ -17,11 +17,9 @@
 </p>
 
 
-- 🎓🧑‍🎓 Student of **CSE** 💻
-
-- 🛠️ I'm Exploring Next JS
-
--  🥷🏼 Interested in **Cyber Security**
+➡️ Student of **CSE** 💻  
+➡️ Exploring Next JS  
+➡️ Interested in **Generative AI**
 
 <p align="left">
 <a href="https://judge.beecrowd.com/en/profile/1013768" target="_blank">
