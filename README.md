@@ -16,7 +16,7 @@
 
 - 🎓🧑‍🎓 Student of **CSE** 💻
 
-- 🛠️ I'm Working on a Percel Delivery Website
+- 🛠️ I'm Exploring Next JS
 
 -  🥷🏼 Interested in **Cyber Security**
 
