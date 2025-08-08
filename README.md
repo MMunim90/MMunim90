@@ -5,13 +5,11 @@
         </a>
     </h1>
 <h3 align="center">👨‍💻 MERN Stack Developer | Passionate about Building Modern Full-Stack Web Solutions 🌐</h3>
-<br>
-<img align="right" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
-<br>
+<br><br>
+<img align="right"  alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 ![profile](https://komarev.com/ghpvc/?username=mmunim90&label=PROFILE+VIEWS)
 
-<br>
 <p align="left">
   <a href="https://www.linkedin.com/in/m-munim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
@@ -34,13 +32,13 @@
 
 
 
-<br><br>
+<br><br><br>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github.com/MMunim90/MMunim90/blob/d2a22dd60cf56a9c426e4bf9f74d2dced68bf33a/1.png" alt="Banner Image" width="100%">
 </p>
 
-<br>
+<br>-->
 
 <h3 align="center">Skills:</h3>
 <p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
