@@ -5,13 +5,17 @@
         </a>
     </h1>
 <h3 align="center">👨‍💻 MERN Stack Developer | Passionate about Building Modern Full-Stack Web Solutions 🌐</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
+<img align="right" alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 <br>
 
 ![profile](https://komarev.com/ghpvc/?username=mmunim90&label=PROFILE+VIEWS)
 
 <br>
-<p align="left"> <a href="https://x.com/__munim__" target="blank"><img src="https://img.shields.io/twitter/follow/mmunim?logo=twitter&style=for-the-badge" alt="mmunim" /></a> </p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/m-munim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
 
 
 - 🎓🧑‍🎓 Student of **CSE** 💻
@@ -20,7 +24,12 @@
 
 -  🥷🏼 Interested in **Cyber Security**
 
-- 💻 [beecrowd](https://judge.beecrowd.com/en/profile/1013768) profile.
+<p align="left">
+<a href="https://judge.beecrowd.com/en/profile/1013768" target="_blank">
+<img src="https://img.shields.io/badge/BeeCrowd-Profile-green?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJklEQVQ4T6XTv0sCYRTG8c8xoAEbFg2iiAVRMgwW1EloEXxCXlBI0UnQG/wB+xBMVvEC4E1VBa5EekN5NDaiaTjJrP4f5+XfNfe85xzuVcDvhH8zAWa5iO9ZzDo4zv8n4IrdAHuVbCMthXfMcmGz6GmK9ePZ0I4heMvYBfMZNgL/YBxiKsGmWacTql9jbnGIrYEi2yn2NcDXylq8xbxih8gAnwj6R4OeYJ6Ge1DFt4i6h54Uwq88z4R+IkUg7sB9i6yWba6E7MZoWj/BH7L7rG48qVzj7S38Df4xtMsR6mvEUkIsTYodB5U+jX/ysM3PzR7AXfr+y15TH+h7+KX9FYKQAAAABJRU5ErkJggg==" alt="BeeCrowd" />
+</a>
+</p>
+
 
 
 
@@ -38,7 +47,7 @@
   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=61554851699924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a><a href="https://t.me/CodeCraftGamers" target="blank"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="30" width="40"/></a>
+<a href="https://www.youtube.com/@codecraftgamers" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a><a href="https://x.com/__munim__" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a><a href="https://www.facebook.com/profile.php?id=61554851699924" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a><a href="https://t.me/CodeCraftGamers" target="blank"><img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="30" width="40"/></a>
 <a href="https://www.codechef.com/users/mrpoker" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef" height="30" width="40" /></a>
 <a href="https://discord.gg/56AdxQuU" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/en/profile/29786474" target="blank"><img align="center" src="https://www.svgrepo.com/show/519361/sololearn.svg" alt="Sololearn" height="30" width="40" /></a>
