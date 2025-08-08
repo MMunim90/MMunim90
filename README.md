@@ -15,11 +15,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
-
+<br>
 
 ➡️ Student of **CSE** 💻  
 ➡️ Exploring Next JS  
 ➡️ Interested in **Generative AI**
+
+<br>
 
 <p align="left">
 <a href="https://judge.beecrowd.com/en/profile/1013768" target="_blank">
