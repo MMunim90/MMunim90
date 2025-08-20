@@ -64,9 +64,21 @@
 <br><br>
 
 <h3 align="center">⚡ Stats ⚡</h3> <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunim90" /></p> <br>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mmunim90&show_icons=true&locale=en&theme=radical" alt="mmunim90" /></p> <br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunim90" /></p> <br>
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" 
+    alt="Top Languages"
+    height="180em"
+  />
+  &nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=mmunim90&show_icons=true&locale=en&theme=radical" 
+    alt="GitHub Stats"
+    height="180em"
+  />
+</div>
+<br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a> </p><br><br>
 
 <h2 align="center">▶️ My Youtube Videos</h2>
