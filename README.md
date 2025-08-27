@@ -79,7 +79,7 @@
   />
 </div>
 <br><br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br><br>
+<!--<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p>--><br><br>
 
 <h2 align="center">▶️ My Youtube Videos</h2>
 
