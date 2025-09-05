@@ -81,6 +81,8 @@
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br><br>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmunim90&theme=radical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="MMunim's Contribution Graph" width="100%" />
+
 <h2 align="center">▶️ My Youtube Videos</h2>
 
  - 🎥 [The Floyd-Warshall algorithm in Bnagla](https://youtu.be/QjZQnw4URv8?si=XdxxvJyjVWHI45TJ)
