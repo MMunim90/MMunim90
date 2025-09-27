@@ -4,7 +4,7 @@
             <img src="https://readme-typing-svg.herokuapp.com/?font=Sora&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=I'm+Md+Shahan+Al+Munim;+Programmer;+MERN+Stack+Developer;" alt="">
         </a>
     </h1>
-<h3 align="center">👨‍💻 MERN Stack Developer | Passionate about Building Modern Full-Stack Web Solutions 🌐 </h3>
+<h3 align="center">👨‍💻 MERN Stack Developer | Passionate about Building Modern Full-Stack Web Solutions 🌐</h3>
 <br><br>
 <img align="right"  alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
