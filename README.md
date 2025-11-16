@@ -88,10 +88,10 @@
 <div align="center">
 
 <a href="https://codeforces.com/profile/MMunim">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=MMunim&theme=radical&force_username=true&border_color=404040" alt="MMunim Codeforces Stats"/>
-</a> <br> <br>
+  <img height="300" width="500" src="https://codeforces-readme-stats.vercel.app/api/card?username=MMunim&theme=radical&force_username=true&border_color=404040" alt="MMunim Codeforces Stats"/>
+</a> 
 
-<img src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<img height="300" width="500" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 
 </div><br>
 
