@@ -82,24 +82,22 @@
 <br><br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmunim90&theme=radical&bg_color=0D1117&point=FFFFFF&area=true&hide_border=true" alt="MMunim's Contribution Graph" width="100%" /><br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmunim90&theme=radical&bg_color=0D1117&point=FFFFFF&area=true&hide_border=true" alt="MMunim's Contribution Graph" width="100%" /><br><br>
 
 
 <div align="center">
 
 <span width="100%">
 <a href="https://codeforces.com/profile/MMunim">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=MMunim&theme=radical&force_username=true&border_color=404040" alt="MMunimCodeforces Stats"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=MMunim&theme=radical&force_username=true&border_color=404040" alt="MMunimCodeforces Stats"/>
 </a>
 
 <a>
-<img height="316" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true">
+<img src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </a>
 </span>
 
-</div>
-
-
+</div><br>
 
 <h2 align="center">▶️ My Youtube Videos</h2>
 
