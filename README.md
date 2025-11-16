@@ -81,9 +81,9 @@
 <br>
 
 <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunim90" />
+        <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunim90" />
         &nbsp;
-        <img width="350" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+        <img width="320" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div> <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br>
