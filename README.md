@@ -98,7 +98,7 @@
 </a> 
 
 <a href="https://leetcode.com/u/qmox21CnsA/">
-<img width="500" src="https://leetcard.jacoblin.cool/qmox21CnsA?theme=radical&font=Fira%20Code&ext=contest" alt="MMunim Leetcode Stats"/>
+<img width="500" src="https://leetcard.jacoblin.cool/qmox21CnsA?theme=dark&font=Fira%20Code&ext=contest" alt="MMunim Leetcode Stats"/>
 </a>
 
 </div><br>
