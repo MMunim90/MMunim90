@@ -65,7 +65,6 @@
 <br><br>
 
 <h3 align="center">⚡ Stats ⚡</h3> <br>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunim90" /></p> <br>
 <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" 
@@ -79,19 +78,28 @@
     height="180em"
   />
 </div>
-<br><br>
+<br>
+
+<div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunim90" />
+        &nbsp;
+        <img width="350" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div> <br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmunim90&theme=radical&bg_color=0D1117&point=FFFFFF&area=true&hide_border=true" alt="MMunim's Contribution Graph" width="100%" /><br>
 
 
+<h3 align="center">📊 Competitive Programming Stats:</h3> <br>
 <div align="center">
-
 <a href="https://codeforces.com/profile/MMunim">
   <img width="300" src="https://codeforces-readme-stats.vercel.app/api/card?username=MMunim&theme=radical&force_username=true&border_color=404040" alt="MMunim Codeforces Stats"/>
 </a> 
 
-<img width="400" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+<a href="https://leetcode.com/u/qmox21CnsA/">
+<img width="575" src="https://leetcard.jacoblin.cool/qmox21CnsA?theme=radical&font=Fira%20Code&ext=contest" alt="MMunim Leetcode Stats"/>
+</a>
 
 </div><br>
 
