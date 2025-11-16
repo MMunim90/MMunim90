@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co.com/Gvm0pDfH/banner.png)
+![MasterHead](https://i.ibb.co.com/2Y5KYxGB/banner.jpg)
 
 <h1 align="center">
         <a href="https://git.io/typing-svg">
