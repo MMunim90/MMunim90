@@ -92,6 +92,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmunim90&theme=radical&bg_color=0D1117&point=FFFFFF&area=true&hide_border=true" alt="MMunim's Contribution Graph" width="100%" /><br>
 
 
