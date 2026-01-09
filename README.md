@@ -56,7 +56,7 @@
 <a href="https://www.sololearn.com/en/profile/29786474" target="blank"><img align="center" src="https://www.svgrepo.com/show/519361/sololearn.svg" alt="Sololearn" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/MMunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/qmox21CnsA/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet-code" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/_mmunim_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet-code" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks-for-geeks" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a>
 </p>
