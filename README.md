@@ -102,8 +102,8 @@
   <img width="260" src="https://codeforces-readme-stats.vercel.app/api/card?username=MMunim&theme=radical&force_username=true&border_color=404040" alt="MMunim Codeforces Stats"/>
 </a> 
 
-<a href="https://leetcode.com/u/qmox21CnsA/">
-<img width="500" src="https://leetcard.jacoblin.cool/qmox21CnsA?theme=dark&font=Fira%20Code&ext=contest" alt="MMunim Leetcode Stats"/>
+<a href="https://leetcode.com/u/_mmunim_/">
+<img width="500" src="https://leetcard.jacoblin.cool/_mmunim_?theme=dark&font=Fira%20Code&ext=contest" alt="MMunim Leetcode Stats"/>
 </a>
 
 </div><br>
