@@ -20,7 +20,7 @@
 <br>
 
 ➡️ Student of **CSE** 💻  
-➡️ Exploring Next JS  
+➡️ Exploring **Next JS**  
 ➡️ Interested in **Generative AI**
 
 <br>
