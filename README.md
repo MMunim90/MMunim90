@@ -112,11 +112,10 @@
 </div><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<h3 align="center">▶️ My Youtube Videos</h3>
-
- - 🎥 [The Floyd-Warshall algorithm in Bnagla](https://youtu.be/QjZQnw4URv8?si=XdxxvJyjVWHI45TJ)
- - 🎥 [Getters & Setters in C++ programming (Bangla)](https://youtu.be/OnBwNFpZSq0?si=9hTdLTVlCawZXDWt)
- - 🎥 [DSA knapsack problem in c program (Bangla)](https://youtu.be/6Mobf0qmfZ8?si=0oyQOgs_vZ5GwI5B)
+<h3 align="center">▶️ Youtube Channel</h3>
+<a href="https://www.youtube.com/@learnlogicwithmunim">
+<img src="https://i.ibb.co.com/cKkMrJ77/banner.png" width="100%">
+</a>
 
 <br>
 
