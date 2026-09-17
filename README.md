@@ -72,7 +72,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <h3 align="center">⚡ Stats ⚡</h3> <br>
-<div align="center">
+<!-- <div align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" 
     alt="Top Languages"
@@ -85,18 +85,19 @@
     height="180em"
   />
 </div>
-<br>
+<br> -->
 
 <div align="center">
         <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=mmunim90&show_icons=true&locale=en&layout=compact&theme=radical" alt="mmunim90" />
         &nbsp;
-        <img width="320" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+        <!-- <img width="320" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/> -->
 </div> <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br> -->
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mmunim90&theme=radical&bg_color=0D1117&point=FFFFFF&area=true&hide_border=true" alt="MMunim's Contribution Graph" width="100%" /><br>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmunim90&theme=dracula" alt="MMunim's Contribution Graph" width="100%" /> -->
+<br>
 
 
 <h3 align="center">📊 Competitive Programming Stats:</h3> <br>
