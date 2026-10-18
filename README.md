@@ -60,7 +60,7 @@
 <a href="https://www.topcoder.com/members/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a>
 <a href="https://vjudge.net/user/MMunim" target="_blank"><img align="center" src="assets/images.jpg" alt="vjudge" height="40" width="40" /></a>
 <a href="https://dimikoj.com/profile/yoqn" target="_blank"><img align="center" src="assets/dimik.png" alt="dimikoj" height="40" width="40" /></a><br><a href="https://www.kaggle.com/munim9">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /><a href="https://www.slideshare.net/0323643802" target="_blank" rel="noreferrer"> <img src="assets/slideshare.png" alt="nextjs" width="40" height="40"/> </a><a href="https://t.me/poker9901" target="_blank" rel="noreferrer"> <img src="assets/telegram.png" alt="Telegram" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /><a href="https://www.slideshare.net/0323643802" target="_blank" rel="noreferrer"> <img src="assets/slideshare.png" alt="nextjs" width="40" height="40"/> </a><a href="https://t.me/poker9901" target="_blank" rel="noreferrer"> <img src="assets/telegram.png" alt="Telegram" width="40" height="40"/> </a><a href="https://stackoverflow.com/users/29070864/munim" target="_blank" rel="noreferrer"> <img src="assets/stack overflow.png" alt="stack overflow" width="40" height="40"/> </a>
 </a>
 </p>
 
