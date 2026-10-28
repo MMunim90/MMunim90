@@ -121,7 +121,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> 
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">  -->
 
 <sub><h4 align="center">All rights reserved by MMunim © 2025 | Follow me on [GitHub](https://github.com/mmunim90)</h4></sub>
 
