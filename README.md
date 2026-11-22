@@ -42,32 +42,132 @@
 
 <br>-->
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
-
-<h3 align="center">Skills:</h3>
-<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="assets/Next.jpg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="assets/Express.png" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/></a> <a href="https://jwt.io" target="_blank" rel="noreferrer"><img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/></a></p><br>
   
 <h3 align="center">Connect with me:</h3>
+<table align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="100"><a href="https://www.youtube.com/@learnlogicwithmunim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="30" height="30" alt="YouTube"/></a></td>
+    <td align="center" width="100"><a href="https://x.com/__munim__" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="30" alt="X"/></a></td>
+    <td align="center" width="100"><a href="https://www.linkedin.com/in/m-munim/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30" height="30" alt="LinkedIn"/></a></td>
+    <td align="center" width="100"><a href="https://www.codechef.com/users/mrpoker" target="_blank"><img src="assets/codechef.jpg" width="35" height="35" alt="CodeChef"/></a></td>
+    <td align="center" width="100"><a href="https://discord.gg/eKX8akK3r" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="30" height="30" alt="Discord"/></a></td>
+    <td align="center" width="100"><a href="https://www.sololearn.com/en/profile/29786474" target="_blank"><img src="assets/sololearn.png" width="35" height="35" alt="SoloLearn"/></a></td>
+    <td align="center" width="100"><a href="https://www.hackerrank.com/profile/MMunim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35" height="35" alt="HackerRank"/></a></td>
+    <td align="center" width="100"><a href="https://codeforces.com/profile/mmunim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35" height="35" alt="Codeforces"/></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="100"><a href="https://leetcode.com/u/_mmunim_/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30" height="30" alt="LeetCode"/></a></td>
+    <td align="center" width="100"><a href="https://auth.geeksforgeeks.org/user/mmunim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="30" height="30" alt="GeeksforGeeks"/></a></td>
+    <td align="center" width="100"><a href="https://www.topcoder.com/members/mmunim" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="30" height="30" alt="TopCoder"/></a></td>
+    <td align="center" width="100"><a href="https://vjudge.net/user/MMunim" target="_blank"><img src="assets/images.jpg" width="35" height="35" alt="VJudge"/></a></td>
+    <td align="center" width="100"><a href="https://dimikoj.com/profile/yoqn" target="_blank"><img src="assets/dimik.png" width="35" height="35" alt="Dimik OJ"/></a></td>
+    <td align="center" width="100"><a href="https://www.kaggle.com/munim9" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="35" height="35" alt="Kaggle"/></a></td>
+    <td align="center" width="100"><a href="https://www.slideshare.net/0323643802" target="_blank"><img src="assets/slideshare.png" width="35" height="35" alt="SlideShare"/></a></td>
+    <td align="center" width="100"><a href="https://stackoverflow.com/users/29070864/munim" target="_blank"><img src="assets/stack overflow.png" width="35" height="35" alt="Stack Overflow"/></a></td>
+  </tr>
+</table>
+</table>
+
+<!-- <a href="https://t.me/poker9901" target="_blank" rel="noreferrer"> <img src="assets/telegram.png" alt="Telegram" width="40" height="40"/> </a>-->
+<br>
+
+
+<h3 align="center">Skills:</h3>
+
 <p align="center">
-<a href="https://www.youtube.com/@learnlogicwithmunim" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" /></a><a href="https://x.com/__munim__" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="x" height="30" width="40" /></a><a href="https://www.linkedin.com/in/m-munim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a><a href="https://www.codechef.com/users/mrpoker" target="blank"><img align="center" src="assets/codechef.jpg" alt="codechef" height="40" width="30" /></a>
-<a href="https://discord.gg/eKX8akK3r" target="blank"><img align="center" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt="Discord" height="30" width="40" /></a>
-<a href="https://www.sololearn.com/en/profile/29786474" target="blank"><img align="center" src="assets/sololearn.png" alt="Sololearn" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/MMunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="40" width="40" /></a>
-<a href="https://codeforces.com/profile/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="40" width="40" /></a>
-<a href="https://leetcode.com/u/_mmunim_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet-code" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks-for-geeks" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/mmunim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder" height="30" width="40" /></a>
-<a href="https://vjudge.net/user/MMunim" target="_blank"><img align="center" src="assets/images.jpg" alt="vjudge" height="40" width="40" /></a>
-<a href="https://dimikoj.com/profile/yoqn" target="_blank"><img align="center" src="assets/dimik.png" alt="dimikoj" height="40" width="40" /></a><br><a href="https://www.kaggle.com/munim9">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /><a href="https://www.slideshare.net/0323643802" target="_blank" rel="noreferrer"> <img src="assets/slideshare.png" alt="nextjs" width="40" height="40"/> </a><a href="https://t.me/poker9901" target="_blank" rel="noreferrer"> <img src="assets/telegram.png" alt="Telegram" width="40" height="40"/> </a><a href="https://stackoverflow.com/users/29070864/munim" target="_blank" rel="noreferrer"> <img src="assets/stack overflow.png" alt="stack overflow" width="40" height="40"/> </a>
-</a>
+<table align="center">
+  <tr>
+    <td align="center" width="100"><a href="https://developer.android.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center" width="100"><a href="https://www.arduino.cc/"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/><br/></a></td>
+    <td align="center" width="100"><a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center" width="100"><a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center" width="100"><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center" width="100"><a href="https://www.photoshop.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center" width="100"><a href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center" width="100"><a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/><br/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://tailwindcss.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/><br/></a></td>
+  </tr>
+  <!-- <tr>
+    <td align="center"><a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://orm.drizzle.team/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/drizzle/drizzle-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://redis.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://nginx.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40"/><br/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://aws.amazon.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://github.com/features/actions"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.javascript.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://modelcontextprotocol.io/"><img src="https://cdn.simpleicons.org/modelcontextprotocol/000000" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.pinecone.io/"><img src="https://cdn.simpleicons.org/pinecone/000000" width="40" height="40"/><br/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><br/></a></td>
+    <td align="center"><a href="https://www.w3.org/SQL/"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Object-oriented_programming"><img src="https://img.shields.io/badge/OOP-2563EB?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Role-based_access_control"><img src="https://img.shields.io/badge/RBAC-7C3AED?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Software_as_a_service"><img src="https://img.shields.io/badge/SaaS-0EA5E9?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/System_design"><img src="https://img.shields.io/badge/System_Design-2563EB?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Software_testing"><img src="https://img.shields.io/badge/Testing-16A34A?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Continuous_integration"><img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" height="30"/><br/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation"><img src="https://img.shields.io/badge/RAG-8B5CF6?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Multi-agent_system"><img src="https://img.shields.io/badge/Multi_Agent-7C3AED?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Prompt_engineering"><img src="https://img.shields.io/badge/Prompt_Engineering-9333EA?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://platform.openai.com/docs/guides/function-calling"><img src="https://img.shields.io/badge/Tool_Calling-0D9488?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Word_embedding"><img src="https://img.shields.io/badge/Embeddings-6366F1?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Artificial_intelligence_safety"><img src="https://img.shields.io/badge/AI_Guardrails-DC2626?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Semantic_search"><img src="https://img.shields.io/badge/Semantic_Search-0891B2?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Artificial_intelligence_agent"><img src="https://img.shields.io/badge/Agentic_AI-8B5CF6?style=for-the-badge" height="30"/><br/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Database_design"><img src="https://img.shields.io/badge/Database_Design-2563EB?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Multitenancy"><img src="https://img.shields.io/badge/Multi_Tenant-0D9488?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Clean_code"><img src="https://img.shields.io/badge/Clean_Code-16A34A?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Scalability"><img src="https://img.shields.io/badge/Scalability-2563EB?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Software_architecture"><img src="https://img.shields.io/badge/Architecture-7C3AED?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/DevOps"><img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol"><img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" height="30"/><br/></a></td>
+    <td align="center"><a href="https://en.wikipedia.org/wiki/Virtual_private_server"><img src="https://img.shields.io/badge/VPS-475569?style=for-the-badge" height="30"/><br/></a></td>
+  </tr> -->
+</table>
 </p>
 
 <br>
+
+
 <h3 align="center">Languages:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<table align="center">
+  <table align="center">
+  <tr>
+    <td align="center" width="100"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="40" height="40"/></a></td>
+    <td align="center" width="100"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></td>
+    <td align="center" width="100"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a></td>
+    <td align="center" width="100"><a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a></td>
+    <td align="center" width="100"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
+    <td align="center" width="100"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></td>
+    <td align="center" width="100"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
+    <td align="center" width="100"><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a></td>
+  </tr>
+</table>
+</table>
 <br>
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
