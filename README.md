@@ -194,7 +194,7 @@
         <!-- <img width="320" src="https://github-contributor-stats.vercel.app/api?username=mmunim90&limit=5&theme=dark&combine_all_yearly_contributions=true"/> -->
 </div> <br>
 
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></a></p><br> -->
+<!--<p align="center"> <img src="https://github-trophy-jagratadeb.vercel.app/?username=mmunim90&theme=radical" alt="mmunim90" /></p><br>-->
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
