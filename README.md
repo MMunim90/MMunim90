@@ -6,7 +6,7 @@
         </a>
     </h1>
     <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
-<h3 align="center">👨‍💻 Software Developer by Choice | Turning Ideas into Modern Web Solutions 🌐 </h3>
+<h3 align="center">👨‍💻 Software Developer | Turning Ideas into Modern Web Solutions 🌐 </h3>
 <br><br>
 <img align="right"  alt="Coding" width="500" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNuamNmMmxpd3U0NjcwMjJ4azB1NWFzem5lbm91ajcyM3BzeWhodiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
